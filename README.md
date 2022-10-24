@@ -27,5 +27,5 @@
     [outliers_influence.variance_inflation_factor](https://www.statsmodels.org/dev/generated/statsmodels.stats.outliers_influence.variance_inflation_factor.html) method.
   
   - Week 04: No HW.
-  - Week 05: What is [explained variance score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explained_variance_score.html) in skicit-learn metrics? What is the relationship of it with respect to $R^2$?
+  - Week 05: What is [explained variance score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explained_variance_score.html) in skicit-learn metrics? What is the relationship of it with respect to $R^2$?  
   
