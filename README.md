@@ -29,4 +29,4 @@
   - Week 04: No HW.
   - Week 05: What is [explained variance score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explained_variance_score.html) in skicit-learn metrics? What is the relationship of it with respect to $R^2$?  
   - Week 06: No HW.
-  - Midterm will be on November 17, 2022 at 18:00 (place will be announced).
+  - Midterm will be on November 17, 2022 at 18:00 (place will be announced).  
